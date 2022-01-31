@@ -1,1 +1,1 @@
-# dotfiles
+# Automatic settings and apps syncing
